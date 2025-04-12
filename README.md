@@ -62,3 +62,8 @@ export default function LandingPage() {
     </div>
   );
 }
+"dependencies": {
+  "next": "^13.0.0",     
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0"
+}
